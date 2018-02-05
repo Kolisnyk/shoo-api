@@ -28,6 +28,9 @@ gem 'grape-entity', '0.6.1'
 gem 'grape-swagger', '0.27.3'
 gem 'grape-swagger-rails', '0.3.0'
 
+#back processin
+gem 'sidekiq', '5.0.5'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
